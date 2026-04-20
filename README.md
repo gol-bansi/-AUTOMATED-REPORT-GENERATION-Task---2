@@ -1,5 +1,17 @@
 # Task---2
 
+COMPANY NAME : CODTECH IT SOLUTIONS PRIVATE LIMITED
+
+NAME : GOL BANSI HARESHBHAI
+
+INTERN ID :CTIS4904
+
+DOMAIN : PYTHON PROGRAMMING
+
+DURATION : 12 WEEKS
+
+MENTOR : NEELA SANTOSH
+
 Overview
 
 This project demonstrates Automated Report Generation using Python. The goal of this task is to collect data, analyze it, and automatically generate professional reports in formats such as PDF, Excel, or Word. It reduces manual effort and improves accuracy in creating business or analytical reports.
